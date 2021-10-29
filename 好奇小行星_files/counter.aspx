@@ -1,0 +1,1 @@
+document.write('<span class=webcounter>6892</span>');
